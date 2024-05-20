@@ -3,8 +3,9 @@
 
 TO RUN:
 - Clone and open exercise folder in VS Code
-- In a terminal, cd to server folder and npm start
-- In a new terminal, cd to client and npm run dev
+- In a terminal, cd to server folder and "npm start" (Will start server on port 3001)
+- In a new terminal, cd to client and "npm run dev" (Starts client on port 5173)
+- go to URL: http://localhost:5173/
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 I chose JavaScript for this project and focused on the MERN stack to streamline things. It was a bit of a learning curve, especially 
