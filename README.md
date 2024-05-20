@@ -27,23 +27,23 @@ was functional took far too much time. It wouldn't take me even half the time to
 up solely from this exercise.
 
 Frontend
--ReactJs
--Axios
--React Router
--CSS (modules) - done by ChatGPT
--Jest & SuperTest (for apis)
--Dockerfile
+- ReactJs
+- Axios
+- React Router
+- CSS (modules) - done by ChatGPT
+- Jest & SuperTest (for apis)
+- Dockerfile
 
 Backend
--NodeJs
--Express 
--MongoDB /w mongoose
--cors 
--nodemon
--dotenv
--Dockerfile
+- NodeJs
+- Express 
+- MongoDB /w mongoose
+- cors 
+- nodemon
+- dotenv
+- Dockerfile
 
 Testing
--Jest
--Vitest
--TestingLibrary
+- Jest
+- Vitest
+- TestingLibrary
