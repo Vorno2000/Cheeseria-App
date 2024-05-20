@@ -1,0 +1,55 @@
+.cheese-calculator {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.cheese-calculator h2 {
+  margin-top: 0;
+}
+
+.cheese-calculator label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.cheese-calculator select,
+.cheese-calculator input[type="number"],
+.cheese-calculator button {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.cheese-calculator input[type="number"] {
+  width: 95%;
+}
+
+.cheese-calculator button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.cheese-calculator button:hover {
+  background-color: #45a049;
+}
+
+.cheese-calculator h3 {
+  margin-top: 20px;
+}
+
+.cheese-calculator p {
+  margin: 5px 0;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}

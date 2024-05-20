@@ -1,0 +1,33 @@
+Frontend
+-ReactJs
+-Axios
+-React Router
+-CSS (modules) - done by ChatGPT
+-Jest & SuperTest (for apis)
+-Dockerfile
+
+Backend
+-NodeJs
+-Express 
+-MongoDB /w mongoose
+-cors 
+-nodemon
+-dotenv
+-Dockerfile
+
+Testing
+-Jest
+-Vitest
+-TestingLibrary
+
+I chose JavaScript for this project and focused on the MERN stack to streamline things. It was a bit of a learning curve, especially 
+diving into the backend with Node.js.
+
+Given more time, I would have made this fully functional on github pages, so that local running wouldn't be required. The UI would 
+be much more expanded on with elements like search and sorting functions. I would have made pages to create, edit and delete cheeses. 
+Searching and sorting would be implemented into the backend for larger datasets and scalability. In this case, images were stored on 
+the frontend for simplicity but a cloud service like Amazon S3 could've been used to store and retrieve these images.
+
+Overall this project was quite simple, but getting unit tests to work properly and ensuring MongoDB was functional took far too much
+time. It wouldn't take me even half the time to do all of this again with the experience I've picked up solely from this exercise.
+
